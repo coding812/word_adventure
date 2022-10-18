@@ -6,7 +6,20 @@
 
 string answer_1 = Console.ReadLine();
 
-if (answer_1 == "A");
+switch (answer_1) 
 {
-    Console.WriteLine("\nYou tripped on something...");
+    case "A" or "a":
+        Console.WriteLine("You tripped");
+        break;
+    case "B" or "b":
+        Console.WriteLine("A light flickers under the door");
+        break;
+    case "C" or "c":
+        Console.WriteLine("You nudge something and hear a growl");
+        break;
+    case "":
+        Console.WriteLine("Type A,B, or C and press Enter to continue...");
+        break ;
+       
 }
+
