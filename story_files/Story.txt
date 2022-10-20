@@ -1,0 +1,6 @@
+﻿You wake up and there are no lights on in the room, do you:
+    A: Get up and turn on a light?
+    B: Lay there and hope the lights come on themselves?
+    C: Reach under the bed and feel around for a flashlight?
+    Type A,B, or C and press Enter to continue...
+You tripped
